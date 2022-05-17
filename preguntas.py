@@ -12,6 +12,7 @@ selección de las n variables más relevantes usando una prueba f.
 #from this import d
 from pyexpat.errors import XML_ERROR_NOT_STANDALONE
 import pandas as pd
+import numpy as np
 
 def pregunta_01():
     """
