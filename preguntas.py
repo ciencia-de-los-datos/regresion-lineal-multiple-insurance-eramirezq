@@ -9,7 +9,7 @@ selección de las n variables más relevantes usando una prueba f.
 # pylint: disable=invalid-name
 # pylint: disable=unsubscriptable-object
 
-#from this import d
+from this import d
 from pyexpat.errors import XML_ERROR_NOT_STANDALONE
 import pandas as pd
 import numpy as np
